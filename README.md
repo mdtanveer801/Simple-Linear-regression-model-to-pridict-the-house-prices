@@ -1,0 +1,2 @@
+# Simple-Linear-regression-model-to-pridict-the-house-prices
+This code is implementing a simple linear regression model to predict house prices based on the living space (square footage). It uses the LinearRegression model from Scikit-learn, splits the dataset into training and test sets, trains the model, and then visualizes the training and test data with predicted regression lines.  It looks good overall.
